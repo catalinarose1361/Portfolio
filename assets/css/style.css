@@ -102,6 +102,5 @@ footer {
     Position: fixed;
     width: 100%;
     height: 50px;
-    border-style: solid;
-    border-color: #4aaaa5
+    border-top: 8px solid #4aaaa5;
 }
