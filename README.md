@@ -3,7 +3,7 @@ Usage-
 Go to https://catalinarose1361.github.io/Portfolio/ to view my online portfolio. Use links at the top of the page to navigate to different areas.
 
 Credits-
-Twitter Bootstrap
+HTML inspiration and styles from w3schools.com
 Photo by Oliver Sjöström on Unsplash
 Photo by Nicolas Duvieusart Déry on Unsplash
 Photo by Sergey Pesterev on Unsplash
